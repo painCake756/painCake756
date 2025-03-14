@@ -1,6 +1,7 @@
 ## Hi there 👋
 ---
-I'm painCake
+I'm painCake.
+
 I'm currently learning yolov7 and Front-end web development.
 <!--
 **painCake756/painCake756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
